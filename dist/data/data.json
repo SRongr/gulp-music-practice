@@ -1,0 +1,29 @@
+[
+    {
+        "img":"/source/song_1.jpg",
+        "audio":"/source/song_1.mp3",
+        "song":"丑八怪",
+        "album":"意外",
+        "singer":"薛之谦",
+        "duration":253,
+        "islike":true
+    },
+    {
+        "img":"/source/song_2.jpg",
+        "audio":"/source/song_2.mp3",
+        "song":"小半",
+        "album":"小梦大半",
+        "singer":"陈粒",
+        "duration":297,
+        "islike":false
+    },
+    {
+        "img":"/source/song_3.jpg",
+        "audio":"/source/song_3.mp3",
+        "song":"Shape Of You",
+        "album":"÷",
+        "singer":"ed sheeran",
+        "duration":235,
+        "islike":false
+    }
+]
